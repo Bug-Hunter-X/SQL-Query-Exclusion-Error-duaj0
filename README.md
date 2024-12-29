@@ -1,0 +1,1 @@
+This repository contains examples of a common SQL query error and its solution.  The error involves unintentionally excluding data points due to the use of a strict inequality operator instead of a greater-than-or-equal-to operator. The solution demonstrates the correct usage of the greater-than-or-equal-to operator to include all relevant data.
